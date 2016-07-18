@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
+
+h1 {
+  font-style: oblique;
+  font-size: 50px;
+  font-family: cursive;
+}
+img {
+  width: auto;
+  height: 300px;
+  border: 2px solid red;
+}
+
+
+p {
+  font-style: normal;
+  font-family: Poiret One, serif;
+}
+.info {
+  font-size: 20px;
+  margin-top: 0px;
+  padding: 0px;
+
+}
+
+.where {
+  margin: 0px;
+  padding: 0px;
+}
+
+.Edu {
+  font-family: Chewy, cursive;
+  font-size: 30px;
+  margin: 0px;
+}
+
+h3 {
+  margin-bottom: 0px;
+  padding: 0px;
+}
+
+li {
+  margin: 0px;
+  padding: 0px;
+  list-style-type: lower-greek;
+}
+
+.Hobs {
+  font-family: Chewy, cursive;
+  font-size: 30px;
+  margin-top: 10px;
+  margin: 0px;
+}
+ul {
+  margin: 0px;
+
+}
+a {
+  margin-bottom: 40px;
+}
